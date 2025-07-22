@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 ### Overview
 
-Customer churn (also called attrition) refers to the number of subscribers who discontinue services within a given time period.
+Customer churn (also called attrition) refers to the number of subscribers who discontinue services within a given time period..
 It is a critical threat to growth, even with strong new customer acquisition. For telecom companies, where competition is fierce and switching costs are low, reducing attrition is essential to protect profitability.
 Predicting churn enables proactive retention strategies, such as targeted discounts or improved services.
 
